@@ -13,7 +13,7 @@ cohort = 2305
 specific_starting_point = "Daniel, Parker, Allen and Dylan all started with cohort #{cohort} and were all placed together in group #{small_group}"
 
 balance = 1.25
-owed = 23800.00
+owed = 23800.01
 
 rich = false
 happy = true
