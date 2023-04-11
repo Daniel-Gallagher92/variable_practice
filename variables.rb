@@ -11,10 +11,10 @@ small_group = 07
 cohort = 2305
 
 balance = 1.25
-balance_owed = 23,800.00
+owed = 23,800.00
 
-is_rich = false
-is_happy = true
+rich = false
+happy = true
 
 email = "Doot.doot@dootmail.doot"
 username = "DanielG"
