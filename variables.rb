@@ -1,3 +1,6 @@
 email = "Daniel.Gallagher92@gmail.com"
 username = "Daniel-Gallagher92"
-balance = "Broke"
+
+small_group = 07
+cohort = 2305
+
