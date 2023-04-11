@@ -6,3 +6,6 @@ cohort = 2305
 
 balance = 1.25
 gpa 4.0
+
+is_rich = false
+is_happy = true
